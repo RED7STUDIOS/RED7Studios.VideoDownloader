@@ -1,0 +1,16 @@
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\bin\Debug\Video Downloader.exe.config
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\bin\Debug\Video Downloader.exe
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\bin\Debug\Video Downloader.pdb
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\bin\Debug\RED7StudiosUI.dll
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\bin\Debug\RED7StudiosUI.pdb
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\Video Downloader.csprojAssemblyReference.cache
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\YouTube_Music_Downloader.frmMain.resources
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\YouTube_Music_Downloader.frmFacebook.resources
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\YouTube_Music_Downloader.frmYouTube.resources
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\Video_Downloader.Properties.Resources.resources
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\Video Downloader.csproj.GenerateResource.cache
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\Video Downloader.csproj.CoreCompileInputs.cache
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\Video Downloader.csproj.CopyComplete
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\Video Downloader.exe
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\Video Downloader.pdb
+E:\VS Projects\YouTube Music Downloader\YouTube Music Downloader\obj\Debug\YouTube_Music_Downloader.frmSoundCloud.resources
