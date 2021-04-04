@@ -60,5 +60,19 @@ namespace YouTube_Music_Downloader
                 textBox1.Text = File.ReadAllText("bin\\youtubedir.txt");
             }
         }
+
+        private void Clipboard_Tick(object sender, EventArgs e)
+        {
+            if (Clipboard.GetText().Contains("youtube.com"))
+            {
+                DialogResult result = MessageBox.Show("A YouTube link was found! Do you wish to download it?", "YT Downloader", MessageBoxButtons.YesNo);
+                if (result == DialogResult.Yes)
+                {
+                    no = false;
+                    tbURL.Text = Clipboard.GetText();
+                    btnDownload.PerformClick();
+                }
+            }
+        }
     }
 }

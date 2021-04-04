@@ -92,7 +92,7 @@ namespace YouTube_Music_Downloader
             this.btnBrowse.UseVisualStyleBackColor = true;
             this.btnBrowse.Click += new System.EventHandler(this.modernButton1_Click);
             // 
-            // frmMain
+            // frmYouTube
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -107,8 +107,7 @@ namespace YouTube_Music_Downloader
             this.Controls.Add(this.cbFormat);
             this.Controls.Add(this.tbURL);
             this.Location = new System.Drawing.Point(0, 0);
-            this.MaximumSize = new System.Drawing.Size(1680, 1010);
-            this.Name = "frmMain";
+            this.Name = "frmYouTube";
             this.Text = "YouTube Downloader";
             this.Load += new System.EventHandler(this.frmMain_Load);
             this.ResumeLayout(false);

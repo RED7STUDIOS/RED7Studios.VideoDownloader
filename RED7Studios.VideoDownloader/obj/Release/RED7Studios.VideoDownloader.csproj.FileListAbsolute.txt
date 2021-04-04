@@ -1,0 +1,16 @@
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\bin\Release\RED7 Video Downloader.exe.config
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\bin\Release\RED7 Video Downloader.exe
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\bin\Release\RED7 Video Downloader.pdb
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\bin\Release\RED7StudiosUI.dll
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\bin\Release\RED7StudiosUI.pdb
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\RED7Studios.VideoDownloader.csprojAssemblyReference.cache
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\YouTube_Music_Downloader.frmSoundCloud.resources
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\YouTube_Music_Downloader.frmMain.resources
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\YouTube_Music_Downloader.frmFacebook.resources
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\YouTube_Music_Downloader.frmYouTube.resources
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\Video_Downloader.Properties.Resources.resources
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\RED7Studios.VideoDownloader.csproj.GenerateResource.cache
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\RED7Studios.VideoDownloader.csproj.CoreCompileInputs.cache
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\RED7Studios.VideoDownloader.csproj.CopyComplete
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\RED7 Video Downloader.exe
+D:\GitHub\RED7Studios.VideoDownloader\RED7Studios.VideoDownloader\obj\Release\RED7 Video Downloader.pdb
